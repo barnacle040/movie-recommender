@@ -1,5 +1,5 @@
 
-   movie recommneder
+   Movie Recommender
 
 
 
