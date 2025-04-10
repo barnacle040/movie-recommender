@@ -1,9 +1,9 @@
 
-                                       movie recommneder
+   movie recommneder
 
 
 
 
 
 
-                             https://barnacle404.pythonanywhere.com
+  https://barnacle404.pythonanywhere.com
